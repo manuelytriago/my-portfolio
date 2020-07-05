@@ -46,11 +46,18 @@ footer{
   
 }
 
-h1 ,h2{
+h1 {
   font-style: italic;
   font-weight: bold;
   text-align: center;
   margin: 5% 20% 0% 20%;
+}
+
+h2{
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  margin: 0% 20% 0% 20%;
 }
 
 h3{
