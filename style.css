@@ -2,6 +2,10 @@ body{
   background-color: aliceblue;
 }
 
+div{
+  margin-top: -5%;
+}
+
 ul, ol{
   text-align: justify;
   font-size: 14px;
