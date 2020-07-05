@@ -1,6 +1,7 @@
 body{
   background-color: aliceblue;
 }
+
 ul, ol{
   text-align: justify;
   font-size: 14px;
@@ -19,6 +20,7 @@ img{
   border-style: solid;
   border-width: 20;
 }
+
 header{
   height: 20%;
   text-align: center;
@@ -46,6 +48,7 @@ h1 ,h2{
   text-align: center;
   margin: 5% 20% 5% 20%;
 }
+
 h3{
   text-align: center;
   color:black;
@@ -66,6 +69,7 @@ main > div{
   padding-left:0%;
 
 }
+
 main > div> section{
 margin-bottom: 15%;
 }
@@ -76,11 +80,13 @@ font-size: 14px;
 color:black;
 font-style: normal;
 }
+
 p.center{
 text-align: center;
 font-size: 14px;
 color:black;
 }
+
 a:link {
   color:darkblue;
 }
