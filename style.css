@@ -7,7 +7,10 @@ ul, ol{
   color:black;
   font-style: normal;
 }
+
 img{
+  display:block;
+  margin:auto;
   text-align: center;
   position: center;
   width: 200;
@@ -61,10 +64,6 @@ main > div{
   height:400px;
   margin: 5% 5% 5% 0%;
   padding-left:0%;
-
-}
-main > div> section > div {
-
 
 }
 main > div> section{
