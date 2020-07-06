@@ -21,11 +21,16 @@ img{
   margin:auto;
   text-align: center;
   position: center;
-  width: 200;
-  height: 300;
+  /*width: 200;
+  height: 300;*/
   border-color:white;
   border-style: solid;
   border-width: 20;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
 }
 
 /* Header styles */
